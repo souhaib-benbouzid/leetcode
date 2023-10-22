@@ -13,7 +13,7 @@ yarn install
 
 ```sh
 # start server
-yarn start ./src/<solution_filename>
+yarn start ./src/solutions/<solution_filename>
 ```
 
 <https://github.com/Souhaib-Benbouzid>
